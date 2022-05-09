@@ -1,7 +1,7 @@
 ## Tohainabook 1.0
 
 #### version
-1. Node (13.12.0)
+1. ![](https://img.shields.io/badge/Node-13.12.0-green)
 2. NPM (6.14.4) or Thread (1.22.4)
 3. MongoDB (4.2.0)
 
