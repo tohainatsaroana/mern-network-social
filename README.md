@@ -1,13 +1,13 @@
-### Tohainabook 1.0
+#Tohainabook 1.0
 
-#### version 
+#### version
 1. Node (13.12.0)
-2. NPM (6.14.4) ou Yarn (1.22.4)
+2. NPM (6.14.4) or Thread (1.22.4)
 3. MongoDB (4.2.0)
 
-####  Comment demarrer l'application?
-1. Demmarer mongodB
-2. Ouvrir le dossier tohainabook en utilisant git bash puis ``` code . ``` pour l'éditer sur VScode,
-   - Installer les dependances en utlisant le commande ```  npm install  ``` ou ``` yarn ``` sur ce dossier
-   - Demarrer l'application en utilisant le commande , run ```  npm run development  ``` ou ``` yarn development ```
-3. Ouvrir [localhost:3000](http://localhost:3000/) sur votre navigateur
+#### How do I start the application?
+1. Start mongodB
+2. Open the tohainabook folder using git bash then ``` code . ``` to edit it on VScode,
+   - Install dependencies using ``` npm install ``` or ``` yarn ``` command on this folder
+   - Start the application using the command, run ``` npm run development ``` or ``` yarn development ```
+3. Open [localhost:3000](http://localhost:3000/) on your browser
